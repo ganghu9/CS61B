@@ -1,14 +1,3 @@
-/**
- * @projectName: hw0
- * @package: PACKAGE_NAME
- * @className: EnhancedForBreakDemo
- * @author: Gang Hu
- * @description: TODO
- * @date: 01/02/2024 00:42
- * @version: 1.0
- */
-
-
 public class EnhancedForBreakDemo {
     public static void main(String[] args) {
         String[] a = {"cat", "dog", "laser horse", "ketchup", "horse", "horbse"};
